@@ -1,1 +1,1 @@
-# R-in-Data-Exploratory
+# R-Data-Science
